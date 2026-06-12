@@ -1,0 +1,10 @@
+qdrant-client
+sentence-transformers
+docling
+docling-core
+groq
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-qdrant
+huggingface-hub
